@@ -1,6 +1,12 @@
 {
   "apps": [
     {
+      "name": "EcoDigital",
+      "title": "EcoDigital",
+      "name_zh": "万生数",
+      "url": "http://47.96.186.75:3000/"
+    },
+    {
       "name": "programmusic",
       "title": "ProgramMusic",
       "name_zh": "ProgramMusic",
